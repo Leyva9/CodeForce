@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\bin\Debug\net7.0\HelpfullMaths.exe
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\bin\Debug\net7.0\HelpfullMaths.deps.json
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\bin\Debug\net7.0\HelpfullMaths.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\bin\Debug\net7.0\HelpfullMaths.dll
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\bin\Debug\net7.0\HelpfullMaths.pdb
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\HelpfullMaths.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\HelpfullMaths.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\HelpfullMaths.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\HelpfullMaths.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\HelpfullMaths.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\HelpfullMaths.dll
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\refint\HelpfullMaths.dll
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\HelpfullMaths.pdb
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\HelpfullMaths.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\HelpfullMaths\obj\Debug\net7.0\ref\HelpfullMaths.dll

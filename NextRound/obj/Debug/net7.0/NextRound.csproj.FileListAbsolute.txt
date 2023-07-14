@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\bin\Debug\net7.0\NextRound.exe
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\bin\Debug\net7.0\NextRound.deps.json
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\bin\Debug\net7.0\NextRound.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\bin\Debug\net7.0\NextRound.dll
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\bin\Debug\net7.0\NextRound.pdb
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\NextRound.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\NextRound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\NextRound.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\NextRound.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\NextRound.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\NextRound.dll
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\refint\NextRound.dll
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\NextRound.pdb
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\NextRound.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\NextRound\obj\Debug\net7.0\ref\NextRound.dll

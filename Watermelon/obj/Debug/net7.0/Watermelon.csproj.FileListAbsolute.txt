@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\bin\Debug\net7.0\Watermelon.exe
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\bin\Debug\net7.0\Watermelon.deps.json
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\bin\Debug\net7.0\Watermelon.runtimeconfig.json
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\bin\Debug\net7.0\Watermelon.dll
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\bin\Debug\net7.0\Watermelon.pdb
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\Watermelon.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\Watermelon.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\Watermelon.AssemblyInfo.cs
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\Watermelon.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\Watermelon.dll
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\refint\Watermelon.dll
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\Watermelon.pdb
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\Watermelon.genruntimeconfig.cache
+D:\Documentos\Proyecto\Ejercicios\CodeForce\Watermelon\obj\Debug\net7.0\ref\Watermelon.dll
