@@ -1,0 +1,15 @@
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\bin\Debug\net7.0\Translation.exe
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\bin\Debug\net7.0\Translation.deps.json
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\bin\Debug\net7.0\Translation.runtimeconfig.json
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\bin\Debug\net7.0\Translation.dll
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\bin\Debug\net7.0\Translation.pdb
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\Translation.csproj.AssemblyReference.cache
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\Translation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\Translation.AssemblyInfoInputs.cache
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\Translation.AssemblyInfo.cs
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\Translation.csproj.CoreCompileInputs.cache
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\Translation.dll
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\refint\Translation.dll
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\Translation.pdb
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\Translation.genruntimeconfig.cache
+C:\Users\FH1\Documents\GitHub\CodeForce\Translation\obj\Debug\net7.0\ref\Translation.dll
