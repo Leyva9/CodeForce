@@ -18,5 +18,4 @@
         }
         Console.WriteLine(String.Concat(cola));
     }
-    // BBGBBG BBGBGB BGBBGB GBBGBB
 }
