@@ -1,0 +1,15 @@
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\bin\Debug\net7.0\BinaryNotation.exe
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\bin\Debug\net7.0\BinaryNotation.deps.json
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\bin\Debug\net7.0\BinaryNotation.runtimeconfig.json
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\bin\Debug\net7.0\BinaryNotation.dll
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\bin\Debug\net7.0\BinaryNotation.pdb
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\BinaryNotation.csproj.AssemblyReference.cache
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\BinaryNotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\BinaryNotation.AssemblyInfoInputs.cache
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\BinaryNotation.AssemblyInfo.cs
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\BinaryNotation.csproj.CoreCompileInputs.cache
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\BinaryNotation.dll
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\refint\BinaryNotation.dll
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\BinaryNotation.pdb
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\BinaryNotation.genruntimeconfig.cache
+C:\Users\FH1\Documents\GitHub\CodeForce\BinaryNotation\obj\Debug\net7.0\ref\BinaryNotation.dll
