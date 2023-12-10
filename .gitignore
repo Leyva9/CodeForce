@@ -1,0 +1,33 @@
+# Archivos generados por Visual Studio
+*.obj
+*.exe
+*.dll
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.libs
+*.sbr
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.json
+
+# Carpetas generadas por Visual Studio
+ipch/
+obj/
+bin/
+[Bb]in/
+[Oo]bj/
